@@ -2,4 +2,4 @@
 - 👀 I’m interested in LUA, PY, JS, HTML
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on a server FiveM
-- 📫 How to reach me on discord : El Ramoutchio#9999
+- 📫 How to reach me on discord : Ramoune#8656
